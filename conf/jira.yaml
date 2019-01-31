@@ -1,0 +1,18 @@
+# 项目模块配置
+    # gitlab项目名称
+    # gitlab 项目key
+    # 单个模块统计项目显示
+    # 总体统计项目显示
+product:
+    test-h5-微商城:
+        - TESTHSTOR
+        - 前端界面
+        - 微商城
+    test-Web-官网:
+        - TESTWEB
+        - 前端界面
+        - 官网界面
+    testAutoTest:
+        - TESTAUT
+        - 后台接口
+        - 接口中心
